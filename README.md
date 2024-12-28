@@ -1,8 +1,8 @@
-**Task Management Application Built with React (for Practice Study)**
+# **Task Management Application Built with React (for Practice Study)**
 [![todo-img.jpg](https://i.postimg.cc/HnHdHbfK/todo-img.jpg)](https://postimg.cc/BLhdBPZc)
   
 
-**Project Overview**
+# **Project Overview**
 
   
 
@@ -18,7 +18,7 @@ This project highlights core React concepts such as state management, component-
 
   
 
-**UI**
+# **UI**
 
   
 
@@ -87,4 +87,3 @@ The UI emphasizes functionality and simplicity. The design is clean and minimali
 **27 December 2024**
 
 By Libor Gess
-# reactTodolistPracitice

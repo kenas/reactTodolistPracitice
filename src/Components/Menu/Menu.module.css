@@ -1,0 +1,33 @@
+.menu {
+    grid-area: menu;
+    color: white;
+    margin-left: 6rem;
+}
+
+.buttonAdd {
+    font-size: 5rem;
+    background-color: var(--mainBackgroudColor);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.menuCategory {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.menuCategory label {
+    margin: 0.56rem 1.3rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.menuCategory > input {
+    margin: 0.56rem 1.3rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    cursor: pointer;
+}

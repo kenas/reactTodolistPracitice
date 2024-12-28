@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", serif;
+    font-style: normal;
+    font-size: 16px;
+}
+
+:root {
+    --mainBackgroudColor: hsl(0, 19%, 42%);
+    --taskDone: hsl(118, 100%, 36%);
+    --mainColorFont: hsl(0, 11%, 36%);
+    --taskBackground: hsl(0, 0%, 89%);
+    --placeholdersColor: hsl(0, 11%, 36%, 0.4);
+    --errorMessages: hsl(0, 44.6%, 52.5%);
+}
+
+body {
+    background-color: var(--mainBackgroudColor);
+}
+
+.mainContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-areas: 
+        ". tasks menu";
+}

@@ -1,0 +1,39 @@
+.card {
+    background-color: var(--taskBackground);
+    padding: 1.4rem;
+    margin-bottom: 1.3rem;
+    border-radius: 0.2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardContainer {
+    display: flex;
+    align-items: center;
+}
+
+.cardContainer > input {
+    cursor: pointer;
+}
+
+.cardDetails {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 0rem 2rem;
+}
+.cardContainer h4 {
+    font-size: 1.25rem;
+    padding-bottom: 0.3rem;
+    color: var(--mainColorFont);
+    font-weight: 700;
+}
+
+.cardContainer p {
+    color: var(--mainColorFont);
+}
+
+.buttonDelete {
+    background-color: var(--taskBackground);
+    border: none;
+    cursor: pointer;
+}
