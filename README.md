@@ -16,6 +16,7 @@ The app supports filtering tasks by categories such as “Work,” “Personal,�
 
 This project highlights core React concepts such as state management, component-based architecture, and the use of useEffect for side effects like session storage integration. The application is a perfect demonstration of how React can be used to build dynamic, responsive, and efficient single-page applications.
 
+`<a href="https://react-independent-project.netlify.app/" target="_blank">Live App</a>
   
 
 # **UI**
