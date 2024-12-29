@@ -15,7 +15,7 @@
 .modalContent {
     display: flex;
     flex-direction: column;
-    background-color: var(--taskBackground);
+    background-color: var(--modelBackGround);
     width: 40%;
     margin: 3rem auto;
     padding: 3rem;
@@ -28,7 +28,7 @@
     border-bottom: 1px solid rgba(101, 81, 81, 0.4);
     margin-bottom: 2rem;
     padding: 1rem 0rem;
-    background-color: var(--taskBackground);
+    background-color: var(--modelBackGround);
     outline: none;
     font-size: 1.3rem;
 }
@@ -43,13 +43,13 @@
 
 .category > label {
     margin-left: 1rem;
-    color: var(--mainColorFont);
+    color: var(--acentColor);
     cursor: pointer;
 }
 
 .buttonSave {
     align-self: flex-end;
-    background-color: var(--mainBackgroudColor);
+    background-color: var(--acentColor);
     color: white;
     padding: 1rem 3rem;
     border: none;

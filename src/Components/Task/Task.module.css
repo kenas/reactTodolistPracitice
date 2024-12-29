@@ -19,10 +19,10 @@
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    padding: 0rem 2rem;
+    padding: 0.5rem 2rem;
 }
 .cardContainer h4 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     padding-bottom: 0.3rem;
     color: var(--mainColorFont);
     font-weight: 700;

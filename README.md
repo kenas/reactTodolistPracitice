@@ -24,6 +24,8 @@ This project highlights core React concepts such as state management, component-
 
 The UI emphasizes functionality and simplicity. The design is clean and minimalist, ensuring a distraction-free experience for users. Tasks are displayed in a well-structured list, with options to add, mark as completed, delete, or filter tasks by category. Buttons and form inputs are styled to be intuitive, making navigation effortless for users. While the aesthetics are straightforward, the layout ensures a focus on usability and accessibility.
 
+![Screenshot-2024-12-29-at-12-06-17.png](https://i.postimg.cc/SxtS1Rrw/Screenshot-2024-12-29-at-12-06-17.png)](https://postimg.cc/21hNVzgw)
+
   
 
 **Project Requirements**

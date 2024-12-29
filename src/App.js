@@ -44,7 +44,9 @@ function App() {
   Receives new task data from the modal. */
   function addNewtaskToState(newTask) {
     setTasks((prevTasks) => {
-        const updatedTasks = [...prevTasks, newTask];
+
+        //Here I am adding the newTask first, because I want the new task show as first
+        const updatedTasks = [newTask, ...prevTasks];
 
         // Update allTasks with the new task.
         setAllTasks(updatedTasks); 
