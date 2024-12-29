@@ -20,9 +20,9 @@
     --modelBackGround: hsl(0, 0%, 100%);
 }
 
-/* body {
+body {
     background: var(--mainBackgroudColor);
-} */
+}
 
 .mainContainer {
     display: grid;
